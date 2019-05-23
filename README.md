@@ -3,7 +3,7 @@ Please use this repository to maintain your work for the team project.
 Also please fill the following details:
 
 - Team name: WinnieThePooh
-- Students (SCS username - Name): maie2172 - Moldovan Alexandru-Vasile, jrie2143 - Jugaru Robert, daie2106 - Dogar Alexandru, mrie2175 - Molnar Roland, naie2182 - Nagy Alexandru, mmie???? - Mihalache Mihai
+- Students (SCS username - Name): maie2172 - Moldovan Alexandru-Vasile, jrie2143 - Jugaru Robert, daie2106 - Dogar Alexandru, mrie2175 - Molnar Roland, naie2182 - Nagy Alexandru, mmie2165 - Mihalache Mihai
 
 Project idea:
 
